@@ -1,10 +1,17 @@
-**What am I hoping to get out of this class: **
-**Enhancement of Skills: **
-I hope to improve my knowledge of the course's subject matter. Engage in networking with colleagues to build lasting relationships and perhaps even future partnerships. 
-Gain practical experience and examples from real-world situations that I may use in my career or personal pursuits.
+# Expectations for the Course
 
-**Certification:** 
-After successfully completing the course, I will receive a certification or other acknowledgment that I can use in my portfolio or résumé.
+What I Expect to Get Out of This Course
 
-What in the course am I most anticipating:
-Participatory Sessions: Excited about any practical sessions, workshops, or hands-on laboratories that offer real-world context.
+I expect to gain a deep understanding of the course material and concepts. I want to improve my skills in advanced linux scripting.
+
+What I Am Most Looking Forward to
+
+I am most looking forward to the hands-on projects and practical exercises. Applying the knowledge in real-world scenarios excites me the most.
+
+Why I Am Taking the Course
+
+I am taking this course to further my career. I believe that mastering in systems programming covered in this course will significantly boost my expertise and opportunities.
+
+Gain in-depth knowledge
+Enhance problem-solving abilities
+Connect with like-minded learners
